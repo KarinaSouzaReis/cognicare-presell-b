@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cognicare-presell-b.vercel.app/sitemap.xml
+Sitemap: https://cognicare.checkedpicks.com/sitemap.xml
